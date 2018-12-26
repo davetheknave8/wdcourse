@@ -1,0 +1,61 @@
+/* 
+Created by: David Reeves
+Date Created: 12/19/2018
+Last Revision:
+*/
+
+
+
+header {
+	background-color: #D47D7D;
+	font-family: 'Orbitron', sans-serif;
+	padding: 15px;
+	text-align: center;
+	color: #F0C44A;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;	
+	font-size: 1.5em;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+footer {
+	background-color: #F9A1A1;
+	font-family: 'Orbitron', sans-serif;
+	padding: 10px;
+	text-align: center;
+	color: #6B6B6B;
+	font-size: 0.85em;
+}
+
+a {
+	font-family: 'Orbitron', sans-serif;
+	text-decoration: underline;
+
+}
+
+a:link {
+	color: #D47D7D;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+#centered {
+				margin-left: 5%;
+				}
+
+form {
+	max-width: 50%
+}
+	
